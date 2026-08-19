@@ -1,0 +1,8 @@
+{
+  "name": "jmbarberan/pointerp",
+  "require": {
+    "php": "^7.3",
+    "ext-psr": "*",
+    "phalcon/cphalcon": "^4.0"
+  }
+}
